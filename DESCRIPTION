@@ -1,10 +1,11 @@
 Package: dataCleanr
-Title: What the Package Does (One Line, Title Case)
+Title: A data cleaning aid for busy researchers
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+    person("Tim", "Ransom", , "tsranso@clemson.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-0357-5427"))
+Description: An rstudio plugin to help rename, recode, and clean
+    data - especially data from Qualtrics.
 License: GPL (>= 3)
 Suggests: 
     testthat (>= 3.0.0)
